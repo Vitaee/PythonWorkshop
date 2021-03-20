@@ -1,0 +1,1004 @@
+{
+    "kitaplar": [
+        {
+            "BookName": "A Light in the Attic",
+            "BookPrice": "51.77",
+            "BookStock": "In stock (22 available)",
+            "BookStars": 3,
+            "BookUpc": "a897fe39b1053632",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg",
+            "BookCategory": "Poetry",
+            "BookHref": "http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html"
+        },
+        {
+            "BookName": "Tipping the Velvet",
+            "BookPrice": "53.74",
+            "BookStock": "In stock (20 available)",
+            "BookStars": 1,
+            "BookUpc": "90fa61229261140a",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/08/e9/08e94f3731d7d6b760dfbfbc02ca5c62.jpg",
+            "BookCategory": "Historical Fiction",
+            "BookHref": "http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html"
+        },
+        {
+            "BookName": "Soumission",
+            "BookPrice": "50.10",
+            "BookStock": "In stock (20 available)",
+            "BookStars": 1,
+            "BookUpc": "6957f44c3847a760",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/ee/cf/eecfe998905e455df12064dba399c075.jpg",
+            "BookCategory": "Fiction",
+            "BookHref": "http://books.toscrape.com/catalogue/soumission_998/index.html"
+        },
+        {
+            "BookName": "Sharp Objects",
+            "BookPrice": "47.82",
+            "BookStock": "In stock (20 available)",
+            "BookStars": 4,
+            "BookUpc": "e00eb4fd7b871a48",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/c0/59/c05972805aa7201171b8fc71a5b00292.jpg",
+            "BookCategory": "Mystery",
+            "BookHref": "http://books.toscrape.com/catalogue/sharp-objects_997/index.html"
+        },
+        {
+            "BookName": "Sapiens: A Brief History of Humankind",
+            "BookPrice": "54.23",
+            "BookStock": "In stock (20 available)",
+            "BookStars": 5,
+            "BookUpc": "4165285e1663650f",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/ce/5f/ce5f052c65cc963cf4422be096e915c9.jpg",
+            "BookCategory": "History",
+            "BookHref": "http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html"
+        },
+        {
+            "BookName": "The Requiem Red",
+            "BookPrice": "22.65",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 1,
+            "BookUpc": "f77dbf2323deb740",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/6b/07/6b07b77236b7c80f42bd90bf325e69f6.jpg",
+            "BookCategory": "Young Adult",
+            "BookHref": "http://books.toscrape.com/catalogue/the-requiem-red_995/index.html"
+        },
+        {
+            "BookName": "The Dirty Little Secrets of Getting Your Dream Job",
+            "BookPrice": "33.34",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 4,
+            "BookUpc": "2597b5a345f45e1b",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/e1/1b/e11bea016d0ae1d7e2dd46fb3cb870b7.jpg",
+            "BookCategory": "Business",
+            "BookHref": "http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html"
+        },
+        {
+            "BookName": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+            "BookPrice": "17.93",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 3,
+            "BookUpc": "e72a5dfc7e9267b2",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/97/36/9736132a43b8e6e3989932218ef309ed.jpg",
+            "BookCategory": "Default",
+            "BookHref": "http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html"
+        },
+        {
+            "BookName": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+            "BookPrice": "22.60",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 4,
+            "BookUpc": "e10e1e165dc8be4a",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/d1/2d/d12d26739b5369a6b5b3024e4d08f907.jpg",
+            "BookCategory": "Default",
+            "BookHref": "http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html"
+        },
+        {
+            "BookName": "The Black Maria",
+            "BookPrice": "52.15",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 1,
+            "BookUpc": "1dfe412b8ac00530",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/d1/7a/d17a3e313e52e1be5651719e4fba1d16.jpg",
+            "BookCategory": "Poetry",
+            "BookHref": "http://books.toscrape.com/catalogue/the-black-maria_991/index.html"
+        },
+        {
+            "BookName": "Starving Hearts (Triangular Trade Trilogy, #1)",
+            "BookPrice": "13.99",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 2,
+            "BookUpc": "0312262ecafa5a40",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/a0/7e/a07ed8f1c23f7b4baf7102722680bd30.jpg",
+            "BookCategory": "Default",
+            "BookHref": "http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html"
+        },
+        {
+            "BookName": "Shakespeare's Sonnets",
+            "BookPrice": "20.66",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 4,
+            "BookUpc": "30a7f60cd76ca58c",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/4d/7a/4d7a79a8be80a529b277ed5c4d8ba482.jpg",
+            "BookCategory": "Poetry",
+            "BookHref": "http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html"
+        },
+        {
+            "BookName": "Set Me Free",
+            "BookPrice": "17.46",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 5,
+            "BookUpc": "ce6396b0f23f6ecc",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/b8/e9/b8e91bd2fc74c3954118999238abb4b8.jpg",
+            "BookCategory": "Young Adult",
+            "BookHref": "http://books.toscrape.com/catalogue/set-me-free_988/index.html"
+        },
+        {
+            "BookName": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+            "BookPrice": "52.29",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 5,
+            "BookUpc": "3b1c02bac2a429e6",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/97/27/97275841c81e66d53bf9313cba06f23e.jpg",
+            "BookCategory": "Sequential Art",
+            "BookHref": "http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html"
+        },
+        {
+            "BookName": "Rip it Up and Start Again",
+            "BookPrice": "35.02",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 5,
+            "BookUpc": "a34ba96d4081e6a4",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/81/7f/817f5089c0e6e62738dce2931e7323d3.jpg",
+            "BookCategory": "Music",
+            "BookHref": "http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html"
+        },
+        {
+            "BookName": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+            "BookPrice": "57.25",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 3,
+            "BookUpc": "deda3e61b9514b83",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/ad/96/ad96e9c9f1664cbcb0e9627b007fb6f9.jpg",
+            "BookCategory": "Music",
+            "BookHref": "http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html"
+        },
+        {
+            "BookName": "Olio",
+            "BookPrice": "23.88",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 1,
+            "BookUpc": "feb7cc7701ecf901",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/b1/0e/b10eabab1e1c811a6d47969904fd5755.jpg",
+            "BookCategory": "Poetry",
+            "BookHref": "http://books.toscrape.com/catalogue/olio_984/index.html"
+        },
+        {
+            "BookName": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+            "BookPrice": "37.59",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 1,
+            "BookUpc": "e30f54cea9b38190",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/e8/1f/e81f850db9b9622c65619c9f15748de7.jpg",
+            "BookCategory": "Science Fiction",
+            "BookHref": "http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html"
+        },
+        {
+            "BookName": "Libertarianism for Beginners",
+            "BookPrice": "51.33",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 2,
+            "BookUpc": "a18a4f574854aced",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/91/a4/91a46253e165d144ef5938f2d456b88f.jpg",
+            "BookCategory": "Politics",
+            "BookHref": "http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html"
+        },
+        {
+            "BookName": "It's Only the Himalayas",
+            "BookPrice": "45.17",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 2,
+            "BookUpc": "a22124811bfa8350",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/6d/41/6d418a73cc7d4ecfd75ca11d854041db.jpg",
+            "BookCategory": "Travel",
+            "BookHref": "http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html"
+        },
+        {
+            "BookName": "In Her Wake",
+            "BookPrice": "12.84",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 1,
+            "BookUpc": "23356462d1320d61",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/27/92/2792ef951651ff1eae40a410cac41e0f.jpg",
+            "BookCategory": "Thriller",
+            "BookHref": "http://books.toscrape.com/catalogue/in-her-wake_980/index.html"
+        },
+        {
+            "BookName": "How Music Works",
+            "BookPrice": "37.32",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 2,
+            "BookUpc": "327f68a59745c102",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/1d/40/1d4087ff0a63f09fae9cd8433d21c2c4.jpg",
+            "BookCategory": "Music",
+            "BookHref": "http://books.toscrape.com/catalogue/how-music-works_979/index.html"
+        },
+        {
+            "BookName": "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",
+            "BookPrice": "30.52",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 3,
+            "BookUpc": "5674a18a29a43ced",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/9f/58/9f58d3ff6d58589eaf325b1a33c303a0.jpg",
+            "BookCategory": "Food and Drink",
+            "BookHref": "http://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html"
+        },
+        {
+            "BookName": "Chase Me (Paris Nights #2)",
+            "BookPrice": "25.27",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 5,
+            "BookUpc": "c2e46a2ee3b4a322",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/6c/84/6c84fcf7a53b02b6e763de7272934842.jpg",
+            "BookCategory": "Romance",
+            "BookHref": "http://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html"
+        },
+        {
+            "BookName": "Black Dust",
+            "BookPrice": "34.53",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 5,
+            "BookUpc": "00bfed9e18bb36f3",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/a4/0a/a40af95beab828af1a4757ad1ee17da3.jpg",
+            "BookCategory": "Romance",
+            "BookHref": "http://books.toscrape.com/catalogue/black-dust_976/index.html"
+        },
+        {
+            "BookName": "Birdsong: A Story in Pictures",
+            "BookPrice": "54.64",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 3,
+            "BookUpc": "9528d0948525bf5f",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/af/2f/af2fe2419ea136f2cd567aa92082c3ae.jpg",
+            "BookCategory": "Childrens",
+            "BookHref": "http://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html"
+        },
+        {
+            "BookName": "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana",
+            "BookPrice": "22.50",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 3,
+            "BookUpc": "c7d160c2c0de586f",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/a3/2a/a32ab3b8c024c6c2b274a86b185e7585.jpg",
+            "BookCategory": "Default",
+            "BookHref": "http://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html"
+        },
+        {
+            "BookName": "Aladdin and His Wonderful Lamp",
+            "BookPrice": "53.13",
+            "BookStock": "In stock (19 available)",
+            "BookStars": 3,
+            "BookUpc": "904208d6aa64b655",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/a8/3c/a83c460fab82f35a37c0846729485547.jpg",
+            "BookCategory": "Default",
+            "BookHref": "http://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html"
+        },
+        {
+            "BookName": "Worlds Elsewhere: Journeys Around Shakespeare’s Globe",
+            "BookPrice": "40.30",
+            "BookStock": "In stock (18 available)",
+            "BookStars": 5,
+            "BookUpc": "4c28def39d850cdf",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/7b/d9/7bd93db091d736d0c6ff9d578e3ba3d7.jpg",
+            "BookCategory": "Nonfiction",
+            "BookHref": "http://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html"
+        },
+        {
+            "BookName": "Wall and Piece",
+            "BookPrice": "44.18",
+            "BookStock": "In stock (18 available)",
+            "BookStars": 4,
+            "BookUpc": "ccd9ffa25efabdea",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/df/34/df346322ddfdd3b4da0e34cad17f49dc.jpg",
+            "BookCategory": "Art",
+            "BookHref": "http://books.toscrape.com/catalogue/wall-and-piece_971/index.html"
+        },
+        {
+            "BookName": "The Four Agreements: A Practical Guide to Personal Freedom",
+            "BookPrice": "17.66",
+            "BookStock": "In stock (18 available)",
+            "BookStars": 5,
+            "BookUpc": "6258a1f6a6dcfe50",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/2b/1b/2b1bfecae9d512cb6ee943ccf786216f.jpg",
+            "BookCategory": "Spirituality",
+            "BookHref": "http://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html"
+        },
+        {
+            "BookName": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+            "BookPrice": "31.05",
+            "BookStock": "In stock (18 available)",
+            "BookStars": 3,
+            "BookUpc": "3c039985229453bf",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/7c/10/7c10101fe1759c5a17ba57e4bef9e764.jpg",
+            "BookCategory": "Nonfiction",
+            "BookHref": "http://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html"
+        },
+        {
+            "BookName": "The Elephant Tree",
+            "BookPrice": "23.82",
+            "BookStock": "In stock (18 available)",
+            "BookStars": 5,
+            "BookUpc": "5dada2b7be26bd03",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/4b/80/4b80a3d9148e224ed4d6cd4d33f43728.jpg",
+            "BookCategory": "Thriller",
+            "BookHref": "http://books.toscrape.com/catalogue/the-elephant-tree_968/index.html"
+        },
+        {
+            "BookName": "The Bear and the Piano",
+            "BookPrice": "36.89",
+            "BookStock": "In stock (18 available)",
+            "BookStars": 1,
+            "BookUpc": "9f6568e9c95f60b0",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/d0/87/d0876dcd1a6530a4cb54903aad7a3e28.jpg",
+            "BookCategory": "Childrens",
+            "BookHref": "http://books.toscrape.com/catalogue/the-bear-and-the-piano_967/index.html"
+        },
+        {
+            "BookName": "Sophie's World",
+            "BookPrice": "15.94",
+            "BookStock": "In stock (18 available)",
+            "BookStars": 5,
+            "BookUpc": "6be3beb0793a53e7",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/d7/39/d73914232130fdf90d66f02fd9798f2b.jpg",
+            "BookCategory": "Philosophy",
+            "BookHref": "http://books.toscrape.com/catalogue/sophies-world_966/index.html"
+        },
+        {
+            "BookName": "Penny Maybe",
+            "BookPrice": "33.29",
+            "BookStock": "In stock (18 available)",
+            "BookStars": 3,
+            "BookUpc": "668fe56b17cfcd4f",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/b1/4b/b14be641ab97a330891455a769d52fd3.jpg",
+            "BookCategory": "Default",
+            "BookHref": "http://books.toscrape.com/catalogue/penny-maybe_965/index.html"
+        },
+        {
+            "BookName": "Maude (1883-1993):She Grew Up with the country",
+            "BookPrice": "18.02",
+            "BookStock": "In stock (18 available)",
+            "BookStars": 2,
+            "BookUpc": "094b269567e1c300",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/65/bf/65bfa3acc93b0e558a1c3de1b1164742.jpg",
+            "BookCategory": "Default",
+            "BookHref": "http://books.toscrape.com/catalogue/maude-1883-1993she-grew-up-with-the-country_964/index.html"
+        },
+        {
+            "BookName": "In a Dark, Dark Wood",
+            "BookPrice": "19.63",
+            "BookStock": "In stock (18 available)",
+            "BookStars": 1,
+            "BookUpc": "19ed25f4641d5efd",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/95/84/95840dfd67c020067c99d70451147e20.jpg",
+            "BookCategory": "Mystery",
+            "BookHref": "http://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html"
+        },
+        {
+            "BookName": "Behind Closed Doors",
+            "BookPrice": "52.22",
+            "BookStock": "In stock (18 available)",
+            "BookStars": 4,
+            "BookUpc": "be5cc846f45496fb",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/a5/85/a58571db229f2e8f75ea38861eca7f39.jpg",
+            "BookCategory": "Thriller",
+            "BookHref": "http://books.toscrape.com/catalogue/behind-closed-doors_962/index.html"
+        },
+        {
+            "BookName": "You can't bury them all: Poems",
+            "BookPrice": "33.63",
+            "BookStock": "In stock (17 available)",
+            "BookStars": 2,
+            "BookUpc": "55f9da0c5eea2e10",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/b7/44/b7440aa88046b0bf8cba50d59295518e.jpg",
+            "BookCategory": "Poetry",
+            "BookHref": "http://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html"
+        },
+        {
+            "BookName": "Slow States of Collapse: Poems",
+            "BookPrice": "57.31",
+            "BookStock": "In stock (17 available)",
+            "BookStars": 3,
+            "BookUpc": "b4fd5943413e089a",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/db/ac/dbac3faca8a799824f5725d66c0fcce3.jpg",
+            "BookCategory": "Poetry",
+            "BookHref": "http://books.toscrape.com/catalogue/slow-states-of-collapse-poems_960/index.html"
+        },
+        {
+            "BookName": "Reasons to Stay Alive",
+            "BookPrice": "26.41",
+            "BookStock": "In stock (17 available)",
+            "BookStars": 2,
+            "BookUpc": "c8f7f0cb1abb9cac",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/f5/3c/f53c7d21723c860cfbca2b539bc55b8f.jpg",
+            "BookCategory": "Nonfiction",
+            "BookHref": "http://books.toscrape.com/catalogue/reasons-to-stay-alive_959/index.html"
+        },
+        {
+            "BookName": "Private Paris (Private #10)",
+            "BookPrice": "47.61",
+            "BookStock": "In stock (17 available)",
+            "BookStars": 5,
+            "BookUpc": "b12b89017878a60d",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/05/87/0587ab519222a61f803fa4570c325ad2.jpg",
+            "BookCategory": "Fiction",
+            "BookHref": "http://books.toscrape.com/catalogue/private-paris-private-10_958/index.html"
+        },
+        {
+            "BookName": "#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.",
+            "BookPrice": "23.11",
+            "BookStock": "In stock (17 available)",
+            "BookStars": 5,
+            "BookUpc": "c27f6e1f185b0383",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/71/45/71451e3bba61a8d888a4a2c6526a4bcf.jpg",
+            "BookCategory": "Nonfiction",
+            "BookHref": "http://books.toscrape.com/catalogue/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html"
+        },
+        {
+            "BookName": "Without Borders (Wanderlove #1)",
+            "BookPrice": "45.07",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 2,
+            "BookUpc": "acddfeab2a407640",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/de/26/de269ee688d4dc51846567f3942600ce.jpg",
+            "BookCategory": "New Adult",
+            "BookHref": "http://books.toscrape.com/catalogue/without-borders-wanderlove-1_956/index.html"
+        },
+        {
+            "BookName": "When We Collided",
+            "BookPrice": "31.77",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 1,
+            "BookUpc": "3ecb690d1542c568",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/17/db/17db3de71e8217d4277a9328b04f56cf.jpg",
+            "BookCategory": "Contemporary",
+            "BookHref": "http://books.toscrape.com/catalogue/when-we-collided_955/index.html"
+        },
+        {
+            "BookName": "We Love You, Charlie Freeman",
+            "BookPrice": "50.27",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 5,
+            "BookUpc": "8d455c7539795d2a",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/87/a2/87a2fddd7f6b240c0351e1eb950b6716.jpg",
+            "BookCategory": "Fiction",
+            "BookHref": "http://books.toscrape.com/catalogue/we-love-you-charlie-freeman_954/index.html"
+        },
+        {
+            "BookName": "Untitled Collection: Sabbath Poems 2014",
+            "BookPrice": "14.27",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 4,
+            "BookUpc": "657fe5ead67a7767",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/65/6e/656e79dfd4f8b6bf19ffde2c75ceda81.jpg",
+            "BookCategory": "Poetry",
+            "BookHref": "http://books.toscrape.com/catalogue/untitled-collection-sabbath-poems-2014_953/index.html"
+        },
+        {
+            "BookName": "Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",
+            "BookPrice": "44.18",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 4,
+            "BookUpc": "d170b5a0da46380e",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/88/a4/88a4b5f7236b8a36ba972be5ebe4f252.jpg",
+            "BookCategory": "Nonfiction",
+            "BookHref": "http://books.toscrape.com/catalogue/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html"
+        },
+        {
+            "BookName": "Unicorn Tracks",
+            "BookPrice": "18.78",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 3,
+            "BookUpc": "7ae099f3898e0209",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/9b/09/9b0935dc936c92900c2dc5d2114da72f.jpg",
+            "BookCategory": "Fantasy",
+            "BookHref": "http://books.toscrape.com/catalogue/unicorn-tracks_951/index.html"
+        },
+        {
+            "BookName": "Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",
+            "BookPrice": "25.52",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 1,
+            "BookUpc": "9a9d6e9bc555731e",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/27/a1/27a1ebe79d6e6759ec68ea9f427a4f71.jpg",
+            "BookCategory": "History",
+            "BookHref": "http://books.toscrape.com/catalogue/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html"
+        },
+        {
+            "BookName": "Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)",
+            "BookPrice": "16.28",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 1,
+            "BookUpc": "09555be379ad9253",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/8b/ab/8bab133ec9f8248a8d5f5ea5c09d0f56.jpg",
+            "BookCategory": "Sequential Art",
+            "BookHref": "http://books.toscrape.com/catalogue/tsubasa-world-chronicle-2-tsubasa-world-chronicle-2_949/index.html"
+        },
+        {
+            "BookName": "Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity",
+            "BookPrice": "31.12",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 3,
+            "BookUpc": "7858914fad68493c",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/f4/21/f4210912ca58ef35f8ad120fe3dfed38.jpg",
+            "BookCategory": "Nonfiction",
+            "BookHref": "http://books.toscrape.com/catalogue/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html"
+        },
+        {
+            "BookName": "This One Summer",
+            "BookPrice": "19.49",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 4,
+            "BookUpc": "51653ef291ab7ddc",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/ee/43/ee4364a59d66bafb1b3264419ab3ed9e.jpg",
+            "BookCategory": "Sequential Art",
+            "BookHref": "http://books.toscrape.com/catalogue/this-one-summer_947/index.html"
+        },
+        {
+            "BookName": "Thirst",
+            "BookPrice": "17.27",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 5,
+            "BookUpc": "709822d0b5bcb7f4",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/8c/54/8c54a50576c204b80165a13545f73028.jpg",
+            "BookCategory": "Fiction",
+            "BookHref": "http://books.toscrape.com/catalogue/thirst_946/index.html"
+        },
+        {
+            "BookName": "The Torch Is Passed: A Harding Family Story",
+            "BookPrice": "19.09",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 1,
+            "BookUpc": "4eed62cf5f8d8edf",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/c7/26/c7260547c468dbe78af92cf3927c2a1c.jpg",
+            "BookCategory": "Add a comment",
+            "BookHref": "http://books.toscrape.com/catalogue/the-torch-is-passed-a-harding-family-story_945/index.html"
+        },
+        {
+            "BookName": "The Secret of Dreadwillow Carse",
+            "BookPrice": "56.13",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 1,
+            "BookUpc": "b5ea0b5dabed25a8",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/7b/fd/7bfde4a3d6793f13e9a2d8851a398847.jpg",
+            "BookCategory": "Childrens",
+            "BookHref": "http://books.toscrape.com/catalogue/the-secret-of-dreadwillow-carse_944/index.html"
+        },
+        {
+            "BookName": "The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",
+            "BookPrice": "56.41",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 1,
+            "BookUpc": "142d767a56a9254d",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/fd/af/fdaf3c3104c559941c01e840fecd2659.jpg",
+            "BookCategory": "Food and Drink",
+            "BookHref": "http://books.toscrape.com/catalogue/the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943/index.html"
+        },
+        {
+            "BookName": "The Past Never Ends",
+            "BookPrice": "56.50",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 4,
+            "BookUpc": "5ee94540d0749ea0",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/9d/f2/9df248dcefeaba9eeb519a59b248f72c.jpg",
+            "BookCategory": "Mystery",
+            "BookHref": "http://books.toscrape.com/catalogue/the-past-never-ends_942/index.html"
+        },
+        {
+            "BookName": "The Natural History of Us (The Fine Art of Pretending #2)",
+            "BookPrice": "45.22",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 3,
+            "BookUpc": "cedf82b5086e4691",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/da/b8/dab87c14168f3ce18530447ec6437361.jpg",
+            "BookCategory": "Young Adult",
+            "BookHref": "http://books.toscrape.com/catalogue/the-natural-history-of-us-the-fine-art-of-pretending-2_941/index.html"
+        },
+        {
+            "BookName": "The Nameless City (The Nameless City #1)",
+            "BookPrice": "38.16",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 4,
+            "BookUpc": "7d385d34d12e60ff",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/19/de/19deee0778c2406da04a4dd0ea09188f.jpg",
+            "BookCategory": "Sequential Art",
+            "BookHref": "http://books.toscrape.com/catalogue/the-nameless-city-the-nameless-city-1_940/index.html"
+        },
+        {
+            "BookName": "The Murder That Never Was (Forensic Instincts #5)",
+            "BookPrice": "54.11",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 3,
+            "BookUpc": "d01ac97e2b8947c2",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/29/e0/29e036acd8a6e3daa787ce2bc05bdbbb.jpg",
+            "BookCategory": "Fiction",
+            "BookHref": "http://books.toscrape.com/catalogue/the-murder-that-never-was-forensic-instincts-5_939/index.html"
+        },
+        {
+            "BookName": "The Most Perfect Thing: Inside (and Outside) a Bird's Egg",
+            "BookPrice": "42.96",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 4,
+            "BookUpc": "aadee1c326d286e3",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/a3/9e/a39e7c5c9fc61c2ae0f81116aa8cbb0e.jpg",
+            "BookCategory": "Science",
+            "BookHref": "http://books.toscrape.com/catalogue/the-most-perfect-thing-inside-and-outside-a-birds-egg_938/index.html"
+        },
+        {
+            "BookName": "The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",
+            "BookPrice": "23.89",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 4,
+            "BookUpc": "31075275518532d7",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/c9/eb/c9eb6ecf45abf796df0044600db65e55.jpg",
+            "BookCategory": "Add a comment",
+            "BookHref": "http://books.toscrape.com/catalogue/the-mindfulness-and-acceptance-workbook-for-anxiety-a-guide-to-breaking-free-from-anxiety-phobias-and-worry-using-acceptance-and-commitment-therapy_937/index.html"
+        },
+        {
+            "BookName": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
+            "BookPrice": "16.77",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 3,
+            "BookUpc": "0da9aa9d24677fc0",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/26/65/2665876e19a6c92130f02cfda3bd3846.jpg",
+            "BookCategory": "Nonfiction",
+            "BookHref": "http://books.toscrape.com/catalogue/the-life-changing-magic-of-tidying-up-the-japanese-art-of-decluttering-and-organizing_936/index.html"
+        },
+        {
+            "BookName": "The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",
+            "BookPrice": "20.59",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 5,
+            "BookUpc": "8c9e6bf2467d740d",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/a5/b8/a5b8d2d5165a06fc762e8eaf8b04f98f.jpg",
+            "BookCategory": "Default",
+            "BookHref": "http://books.toscrape.com/catalogue/the-inefficiency-assassin-time-management-tactics-for-working-smarter-not-longer_935/index.html"
+        },
+        {
+            "BookName": "The Gutsy Girl: Escapades for Your Life of Epic Adventure",
+            "BookPrice": "37.13",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 1,
+            "BookUpc": "acd86a5426e21ca0",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/73/cb/73cb1236d96f455d712516fffeae2304.jpg",
+            "BookCategory": "Nonfiction",
+            "BookHref": "http://books.toscrape.com/catalogue/the-gutsy-girl-escapades-for-your-life-of-epic-adventure_934/index.html"
+        },
+        {
+            "BookName": "The Electric Pencil: Drawings from Inside State Hospital No. 3",
+            "BookPrice": "56.06",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 1,
+            "BookUpc": "a30b270e25489e5c",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/b1/0f/b10faf0dee8994865437ffc79682dc2f.jpg",
+            "BookCategory": "Nonfiction",
+            "BookHref": "http://books.toscrape.com/catalogue/the-electric-pencil-drawings-from-inside-state-hospital-no-3_933/index.html"
+        },
+        {
+            "BookName": "The Death of Humanity: and the Case for Life",
+            "BookPrice": "58.11",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 4,
+            "BookUpc": "bd261725b99f5983",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/3f/f6/3ff6fe5d0c5ca7ab2ed8b5971e299caa.jpg",
+            "BookCategory": "Philosophy",
+            "BookHref": "http://books.toscrape.com/catalogue/the-death-of-humanity-and-the-case-for-life_932/index.html"
+        },
+        {
+            "BookName": "The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",
+            "BookPrice": "49.05",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 3,
+            "BookUpc": "43c6a960757cf559",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/9c/c6/9cc673854af8fd155953384b3cac334e.jpg",
+            "BookCategory": "Health",
+            "BookHref": "http://books.toscrape.com/catalogue/the-bulletproof-diet-lose-up-to-a-pound-a-day-reclaim-energy-and-focus-upgrade-your-life_931/index.html"
+        },
+        {
+            "BookName": "The Art Forger",
+            "BookPrice": "40.76",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 3,
+            "BookUpc": "80cfab6bcff3a244",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/f5/3b/f53bc7b18914c97de7c23967293be119.jpg",
+            "BookCategory": "Add a comment",
+            "BookHref": "http://books.toscrape.com/catalogue/the-art-forger_930/index.html"
+        },
+        {
+            "BookName": "The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind",
+            "BookPrice": "19.73",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 1,
+            "BookUpc": "a3d2a4250807f1e9",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/2e/65/2e654066306042f4c462ba4d048650d9.jpg",
+            "BookCategory": "History",
+            "BookHref": "http://books.toscrape.com/catalogue/the-age-of-genius-the-seventeenth-century-and-the-birth-of-the-modern-mind_929/index.html"
+        },
+        {
+            "BookName": "The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution",
+            "BookPrice": "32.24",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 5,
+            "BookUpc": "7d6d2a6c0276f81b",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/da/0c/da0ca35421a5120b2109028e44a53f56.jpg",
+            "BookCategory": "Spirituality",
+            "BookHref": "http://books.toscrape.com/catalogue/the-activists-tao-te-ching-ancient-advice-for-a-modern-revolution_928/index.html"
+        },
+        {
+            "BookName": "Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up",
+            "BookPrice": "41.83",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 4,
+            "BookUpc": "87b0615b6e1f4d7b",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/17/19/1719475c51206a410a90fe5f3708df4c.jpg",
+            "BookCategory": "Nonfiction",
+            "BookHref": "http://books.toscrape.com/catalogue/spark-joy-an-illustrated-master-class-on-the-art-of-organizing-and-tidying-up_927/index.html"
+        },
+        {
+            "BookName": "Soul Reader",
+            "BookPrice": "39.58",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 2,
+            "BookUpc": "e6af5bf1163c1151",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/cc/5e/cc5e82c2205da748c6c19fbc1876586b.jpg",
+            "BookCategory": "Default",
+            "BookHref": "http://books.toscrape.com/catalogue/soul-reader_926/index.html"
+        },
+        {
+            "BookName": "Security",
+            "BookPrice": "39.25",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 2,
+            "BookUpc": "6f78a0d744c35456",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/79/2b/792bdeb2cf7d8efaef0e401e5a27b4da.jpg",
+            "BookCategory": "Horror",
+            "BookHref": "http://books.toscrape.com/catalogue/security_925/index.html"
+        },
+        {
+            "BookName": "Saga, Volume 6 (Saga (Collected Editions) #6)",
+            "BookPrice": "25.02",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 3,
+            "BookUpc": "c849f0b2f5d6a742",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/4a/99/4a996ae54711cea37e370428b54f8b19.jpg",
+            "BookCategory": "Fantasy",
+            "BookHref": "http://books.toscrape.com/catalogue/saga-volume-6-saga-collected-editions-6_924/index.html"
+        },
+        {
+            "BookName": "Saga, Volume 5 (Saga (Collected Editions) #5)",
+            "BookPrice": "51.04",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 2,
+            "BookUpc": "53a3d11bb568cc8b",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/60/3c/603c8f3dd299efe67616a53e5bfb1d03.jpg",
+            "BookCategory": "Sequential Art",
+            "BookHref": "http://books.toscrape.com/catalogue/saga-volume-5-saga-collected-editions-5_923/index.html"
+        },
+        {
+            "BookName": "Reskilling America: Learning to Labor in the Twenty-First Century",
+            "BookPrice": "19.83",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 2,
+            "BookUpc": "d7310206583a54b6",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/2c/d2/2cd2b814b8a8cd3a49895cbd13a8b1f4.jpg",
+            "BookCategory": "Nonfiction",
+            "BookHref": "http://books.toscrape.com/catalogue/reskilling-america-learning-to-labor-in-the-twenty-first-century_922/index.html"
+        },
+        {
+            "BookName": "Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",
+            "BookPrice": "50.40",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 3,
+            "BookUpc": "c82a3e358c773c73",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/d5/d0/d5d015a9cf899301cce5d1a629bdd974.jpg",
+            "BookCategory": "Sequential Art",
+            "BookHref": "http://books.toscrape.com/catalogue/rat-queens-vol-3-demons-rat-queens-collected-editions-11-15_921/index.html"
+        },
+        {
+            "BookName": "Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",
+            "BookPrice": "13.61",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 5,
+            "BookUpc": "0fa6dceead7ce47a",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/6c/8f/6c8ffe949fb650ba60eff25be1692881.jpg",
+            "BookCategory": "Sequential Art",
+            "BookHref": "http://books.toscrape.com/catalogue/princess-jellyfish-2-in-1-omnibus-vol-01-princess-jellyfish-2-in-1-omnibus-1_920/index.html"
+        },
+        {
+            "BookName": "Princess Between Worlds (Wide-Awake Princess #5)",
+            "BookPrice": "13.34",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 5,
+            "BookUpc": "0e691eda369f4e09",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/db/01/db01b38d3200a5faff4ead42791416e4.jpg",
+            "BookCategory": "Fantasy",
+            "BookHref": "http://books.toscrape.com/catalogue/princess-between-worlds-wide-awake-princess-5_919/index.html"
+        },
+        {
+            "BookName": "Pop Gun War, Volume 1: Gift",
+            "BookPrice": "18.97",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 1,
+            "BookUpc": "e80f8e518b300dfe",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/6f/7b/6f7b3b8445b943f4ff7426360daefb88.jpg",
+            "BookCategory": "Sequential Art",
+            "BookHref": "http://books.toscrape.com/catalogue/pop-gun-war-volume-1-gift_918/index.html"
+        },
+        {
+            "BookName": "Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",
+            "BookPrice": "36.28",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 2,
+            "BookUpc": "7392c0032f92d816",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/31/e6/31e6e0a41e62858180b268c27b20a770.jpg",
+            "BookCategory": "History",
+            "BookHref": "http://books.toscrape.com/catalogue/political-suicide-missteps-peccadilloes-bad-calls-backroom-hijinx-sordid-pasts-rotten-breaks-and-just-plain-dumb-mistakes-in-the-annals-of-american-politics_917/index.html"
+        },
+        {
+            "BookName": "Patience",
+            "BookPrice": "10.16",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 3,
+            "BookUpc": "9429b4d59c537af5",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/71/0c/710cdaa148f10aac35c27bb93b4f532e.jpg",
+            "BookCategory": "Sequential Art",
+            "BookHref": "http://books.toscrape.com/catalogue/patience_916/index.html"
+        },
+        {
+            "BookName": "Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",
+            "BookPrice": "15.44",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 4,
+            "BookUpc": "889139b8e9c4cb36",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/0c/8a/0c8ae80b592bc1b4c555d6b29d1cfa28.jpg",
+            "BookCategory": "Sequential Art",
+            "BookHref": "http://books.toscrape.com/catalogue/outcast-vol-1-a-darkness-surrounds-him-outcast-1_915/index.html"
+        },
+        {
+            "BookName": "orange: The Complete Collection 1 (orange: The Complete Collection #1)",
+            "BookPrice": "48.41",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 1,
+            "BookUpc": "11809b1d323b3057",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/33/0b/330bf57e3f2e70548f87d39cb956f7eb.jpg",
+            "BookCategory": "Sequential Art",
+            "BookHref": "http://books.toscrape.com/catalogue/orange-the-complete-collection-1-orange-the-complete-collection-1_914/index.html"
+        },
+        {
+            "BookName": "Online Marketing for Busy Authors: A Step-By-Step Guide",
+            "BookPrice": "46.35",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 1,
+            "BookUpc": "9ffa38d3b832433a",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/49/e1/49e1f207b2149e34390a2c6aa7cfc113.jpg",
+            "BookCategory": "Self Help",
+            "BookHref": "http://books.toscrape.com/catalogue/online-marketing-for-busy-authors-a-step-by-step-guide_913/index.html"
+        },
+        {
+            "BookName": "On a Midnight Clear",
+            "BookPrice": "14.07",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 3,
+            "BookUpc": "b757c0c361e689ce",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/75/9d/759d9276739200e2cb8101a36449ba20.jpg",
+            "BookCategory": "Add a comment",
+            "BookHref": "http://books.toscrape.com/catalogue/on-a-midnight-clear_912/index.html"
+        },
+        {
+            "BookName": "Obsidian (Lux #1)",
+            "BookPrice": "14.86",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 2,
+            "BookUpc": "3c346ab1e76ae1f6",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/88/3f/883fb0f2304efca8724c629f03a4b82a.jpg",
+            "BookCategory": "Young Adult",
+            "BookHref": "http://books.toscrape.com/catalogue/obsidian-lux-1_911/index.html"
+        },
+        {
+            "BookName": "My Paris Kitchen: Recipes and Stories",
+            "BookPrice": "33.37",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 2,
+            "BookUpc": "784bc2279baa878d",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/ae/d5/aed548aefcac7803a599b05da3acb86e.jpg",
+            "BookCategory": "Food and Drink",
+            "BookHref": "http://books.toscrape.com/catalogue/my-paris-kitchen-recipes-and-stories_910/index.html"
+        },
+        {
+            "BookName": "Masks and Shadows",
+            "BookPrice": "56.40",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 2,
+            "BookUpc": "fa9610a50a1bf149",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/05/c4/05c43fe821ae19169c7baa8a54c7e869.jpg",
+            "BookCategory": "Fantasy",
+            "BookHref": "http://books.toscrape.com/catalogue/masks-and-shadows_909/index.html"
+        },
+        {
+            "BookName": "Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",
+            "BookPrice": "14.02",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 4,
+            "BookUpc": "72f9d5be3472d34e",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/48/19/48192cbef9101060e3787d87d7c8d7d1.jpg",
+            "BookCategory": "Food and Drink",
+            "BookHref": "http://books.toscrape.com/catalogue/mama-tried-traditional-italian-cooking-for-the-screwed-crude-vegan-and-tattooed_908/index.html"
+        },
+        {
+            "BookName": "Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",
+            "BookPrice": "46.91",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 2,
+            "BookUpc": "460089f796fb3f82",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/67/f8/67f83a06f77d0ff3b06cb8ac04839422.jpg",
+            "BookCategory": "Sequential Art",
+            "BookHref": "http://books.toscrape.com/catalogue/lumberjanes-vol-2-friendship-to-the-max-lumberjanes-5-8_907/index.html"
+        },
+        {
+            "BookName": "Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",
+            "BookPrice": "45.61",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 3,
+            "BookUpc": "b6ee99bcf06fc91f",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/1c/78/1c78cb31ededc4c662857cf65bd1619d.jpg",
+            "BookCategory": "Sequential Art",
+            "BookHref": "http://books.toscrape.com/catalogue/lumberjanes-vol-1-beware-the-kitten-holy-lumberjanes-1-4_906/index.html"
+        },
+        {
+            "BookName": "Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)",
+            "BookPrice": "19.92",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 2,
+            "BookUpc": "57e5a4d515c8ce44",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/d6/9b/d69b7020c4210e12882ffca0428919a2.jpg",
+            "BookCategory": "Sequential Art",
+            "BookHref": "http://books.toscrape.com/catalogue/lumberjanes-vol-3-a-terrible-plan-lumberjanes-9-12_905/index.html"
+        },
+        {
+            "BookName": "Layered: Baking, Building, and Styling Spectacular Cakes",
+            "BookPrice": "40.11",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 1,
+            "BookUpc": "7b75cc7f223791f4",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/73/06/7306b860c7887dfb2a4b0083e2d6bf0d.jpg",
+            "BookCategory": "Food and Drink",
+            "BookHref": "http://books.toscrape.com/catalogue/layered-baking-building-and-styling-spectacular-cakes_904/index.html"
+        },
+        {
+            "BookName": "Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)",
+            "BookPrice": "53.90",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 2,
+            "BookUpc": "228f74b74f3a08ae",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/6d/80/6d80608ef81001ad068df06fae44b7f8.jpg",
+            "BookCategory": "Add a comment",
+            "BookHref": "http://books.toscrape.com/catalogue/judo-seven-steps-to-black-belt-an-introductory-guide-for-beginners_903/index.html"
+        },
+        {
+            "BookName": "Join",
+            "BookPrice": "35.67",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 5,
+            "BookUpc": "18ad3ed896c7ce05",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/df/64/df642e483f7ae23de6888c73f05e2014.jpg",
+            "BookCategory": "Science Fiction",
+            "BookHref": "http://books.toscrape.com/catalogue/join_902/index.html"
+        },
+        {
+            "BookName": "In the Country We Love: My Family Divided",
+            "BookPrice": "22.00",
+            "BookStock": "In stock (16 available)",
+            "BookStars": 4,
+            "BookUpc": "b136b1b180ca753a",
+            "BookImg": "http://books.toscrape.com/catalogue/../../media/cache/11/08/1108a8d9ebccd9cd474012121c32a7f5.jpg",
+            "BookCategory": "Nonfiction",
+            "BookHref": "http://books.toscrape.com/catalogue/in-the-country-we-love-my-family-divided_901/index.html"
+        }
+    ]
+}
